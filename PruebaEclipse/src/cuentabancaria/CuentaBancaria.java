@@ -25,7 +25,7 @@ public class CuentaBancaria implements TarjetaCredito {
 	 * @param iDNI Parametro que pasamos por el main refiriendonos con una string al numero de identificacion del dueño de la cuenta.
 	 * @param iTelefono Parametro que pasamos por el main refiriendonos con un int al numero telefonico del dueño de la cuenta.
 	 * @param iEdad Parametro que pasamos por el main refiriendonos con un int a la Edad del dueño de la cuenta.
-	 * @param iSaldo Parametro de numero doble que muestra la cantidad de saldo que posee la cuenta 
+	 * @param iSaldo Parametro de numero doble que muestra la cantidad de saldo que posee la cuenta. 
 	 * sera modficiado conforme se añada o se retire salario o se solicite la modificacion de alguno de los datos.*/
 
 	public CuentaBancaria(String iNombre, String iApellido, String iDireccion, String iDNI, int iTelefono, int iEdad, double iSaldo){

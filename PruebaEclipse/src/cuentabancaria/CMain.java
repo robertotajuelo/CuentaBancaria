@@ -8,11 +8,12 @@ import java.util.Scanner;
  *  dentro de un bucle permanente hasta que pase una simulacion de 12 meses, mostremos la información de la cuenta o
  *  salgamos forzadamente de dicho sistema
 
-@author Roberto Tajuelo y David Gomez
+@author Roberto Tajuelo y David Gomez.
 
 @version 1.1.0
 */
 public class CMain {
+	
 	
 	public static void main(String[] args) {
 		System.out.println("Bancos David-Roberto & company le agradece la depositacion de confianza sobre sus sistemas");
